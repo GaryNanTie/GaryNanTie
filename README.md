@@ -4,7 +4,7 @@ In the beauty of nature there is wisdom.
 Always the beginner's mind!
 
 - 👋 Hi, I’m @GaryNanTie
-- 💞️ I’m looking to collaborate on development of some of my algorithms.
+- 💞️ I’m interested in collaboration on AI research.
 - 📫 How to reach me:  blindsight at duck dot com
   
 
